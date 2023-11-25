@@ -1,0 +1,96 @@
+	*Metodologia Ágil: SCRUM
+	
+	- INTRODUÇÃO
+	
+		° Origem do SCRUM
+		
+			> Em 1996 o Irotaka Takeuchi e Ikujiro Nonaka escreveram um artigo chamado "The new Product Development Game", sobre empresas que estavam indo com um alto índice de produtividade e ele fez um comparação com uma jogada de rugby, então a origem do SCRUM vem do esporte Rugby.
+			Isso significa união, força, colaboração e autonomia.
+			> Em 1993 foi criado o primeiro protótipo do SCRUM pela empresa (Easel Corporation);
+			Jeff Suftherland é o criador oficial do SCRUM, ele foi pesquisar como criar projetos inovadores em curto espaço de tempo;
+			> O SCRUM foi baseado da teoria de PDCA
+				P - Plan = Planejo
+				D - Do = Faço
+				C - Check = Checo/verifico/valido
+				A - Act = corrijo
+			> O seu surgimento oficial foi em 1995;
+			
+		° O Manifesto Ágil
+		
+			> Em fevereiro de 2001, 17 profissionais de tecnologia, que já praticavam métodos Ágil, se reuniram nos Estados Unidos para descutir sobre problemas que eles estavam tendo na execução de projetos de Software;
+			> Eles escreveram um documento que era um manifesto que servia para guiar novos processos de desenvolvimento de software, e eles deram um nome de manifesto ágil, como uma declaração de crenças e valores daquelas 17 pessoas que poderiam ser comum a mais gente;
+			> Nesse manisfesto eles criaram alguns valores(4 valores) que são super importantes;
+				Os 4 valores do Manifesto Ágil:
+				1 - Indivíduos e interações mais que processos e ferramentas;
+				2 - Software em funcionamento mais que documentação abrangente;
+				3 - Colaboração com o cliente mais do que negociação de contratos;
+				4 - Responder a mudanças mais do que seguir um plano.
+				
+			>  então o que é mais importante hoe é individuos e interações, software funcionando, colaboração e resposta a mudanças;
+			> Responder a mudança = adaptação = Ser Ágil;
+			> Principios do manifesto ágil
+				Os 12 principios do Manifesto Ágil:
+				1 - Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado ( nos temos que gerar valor para os clientes, os stakeholders, para o SCRUM Team;
+				2 - Aceitar mudança de requisitos mesmo no fim do desenvolvimento, processos ágils de adpatam a mudanças ;
+				3 - Entregar frequentemente software funcionando em poucas semanas a poucos meses com preferencia com uma menor escala de tempo;
+				4 - Pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto por todo o projetos;
+				5 - Construir projetos em torno de individuos motivados dando a eles ambiante e suporte necessário e confiando neles para fazer o trabalho (Confiança = Autonomia e Autorganização);
+				6 - O método mais eficiente e eficaz de transmitir informação para e entre uma equipe de desenvolvimento é por meio da conversa face a face;
+				7 - Software funcionando é a medida primária de progresso;
+				8 - Os processos ágils promovem desenvolvimento sustentável, os patricionadores, os desenvolvedores e os usuários, devem ser capazes de manter com um ritmo constante indefinidamente;
+				9 - Garantir a exelência técnica para proporcionar um valor acrescentado ao cliente ao mesmo tempo que otimizamos os recursos destinados a isso;
+				10 - Simplicidade a arte de maximizar a quantidade de trabalho não realizado é essencial;
+				11 - As melhores arquiteturas e requisitos emergem de times auto organizados;
+				12 - Intervalos regulares a equipe reflete como se tornar mais eficaz e então e refina e ajusta o seu comportamento de acordo.
+				
+		° Conhecendo o SCRUM
+			
+			> Framework mais utilizado em todo mundo;
+			> Sprint é um periodo de tempo que eu determino que meu trabalho vai ser feito;
+			> SCRUM guide - as regras do jogo;
+			> SCRUM é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adapdativas para problemas complexos;
+			> Ele não é uma metodologia ele é um Framework;
+			> Nesse caso diferente do framework tecnologia, esse framework é um uma estrutra para você resolver problemas específicos;
+			> Framework SCRUM = Conjunto de processos = Estrutura de trabalho;
+			> Product Owner = Dono do produto;
+			> Product Backlog = Lista de coisas que tem que ter no produto;
+				Ex: Livro
+					- Eu tenho que escrever o livro;
+					- Tenho o processo de revisão;
+					- Tenho que criar a capa;
+					- Tenho que ter a gráfica
+					- Tenho que ter varias etapas, para construir uma coisa
+			> Sprint backlog = naquele periodo de tempo, o que eu vou fazer para ter o produto viável, o entregável;
+			> Stakeholders = Partes interessadas, envolvidas( cliente, time de desenvolvimento,patricionador etc);
+			> É uma melhroia continua;
+			> O SCRUM requer um SCRUM MASTER para promover um ambiente onde:
+				1. Um Product Owner ordena o trabalho para um problema complexo em um Product Backlog.
+				2. O SCRUM Team transforma uma seleção do trabalho em em um incremento de valor durante a Scprint; 										.																
+				3. O SCRUM Team e seus stakeholders inspecionam os resultados e se ajudam para a próxima Sprint;
+				4. Repita
+			> O SCRUM torna visível a eficácia e relativa da gestão atual, meio ambiente e técnicas de trablho, para que melhorias possam ser feitas;
+			> Base do Scrum = Empirismo e Lean Thinking
+			> Emprismo = É uma forma de pensamento que você vai aprendendo apartir da experiência; O conhecimento vem da experiência e da tomada de decisões com be no que é observado;
+			> Lean Thinking = reduzir o desperdício e se concentar no essencial;
+			> OS pilares do SCRUM: TransparÊncia, Inspeção e Adaptação;(TIA)
+			> TransparÊncia dos processos, dos requisitos de entrega, do status. todo time tem que saber o que todo mundo faz e todos os processos tem que ser visiveis a todo mundo do time, aos Stakeholders, ao PO, Ao SCRUM MASTER, para todo mundo entender o que todo mundo está fazendo e o que todo mundo tem que saber;
+			> Inspeção de todo o que está sendo feito, eu teho que olhar que o que está senod feito de fato traz f=valor para o produto e se é realmente importante;
+			> Adaptação tanto a processos quanto dos produtos a mudanças, o que quer dizer é que o que foi planejado se a qualquer momento, qualquer problema não possa ser replanegável, não quer dizer que o que foi feito não possa ser reajustável;
+			> não quer dizer que você não posssa mudar o processo,mudar o time, mudar o produto, mudar o entrgável
+			> A Scprint eu vou ter tudo isso, em todas as Scprint;
+			> A inspeção habilita a adaptação.
+			> Adaptação = Água
+			> Inspeção = luta
+			> Adaptação = Camaleão
+			> TransparÊncia é o que descreve mais o Scrum = Permite que todos os Ãngulos de qualuqer processo SCRUM seja observado por qualquer pessoa. Isto promove um fluxo de informações fácil e transparente em toda a organização e cria uma cultura de trablho aberta
+			
+			* Dicas de leitura:
+				
+				> Scrum Guide;
+				> Scrum: A arte de fazer o dobro do trabalho na metade do tempo;
+				> Scrum: Guia prático: Maior produtividade. Melhores resultados. Aplicação imediata;
+				> Sprint: O método usado no Google para testar e aplicar novas ideias em apenas cinco dias;
+				> Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil;
+				> Lean Inception: Como alinhar pessoas e construir o produto certo;
+		
+	- Por dentro do SCRUM: Responsabilidades, Eventos e Artefatos
